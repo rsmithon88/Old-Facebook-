@@ -4,7 +4,6 @@ import sys
 import random
 import string
 import uuid
-import requests
 from concurrent.futures import ThreadPoolExecutor
 
 user = []
